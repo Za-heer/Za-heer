@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Zaheer Khan 👋
+Welcome to my GitHub profile! I'm a Data Scientist passionate about Artificial Intelligence, Machine learning, Deep learning and NLP.
 
-<!--
-**Za-heer/Za-heer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills
+Languages: Python, JavaScript
+Frameworks/Tools: Scikit-learn, TensorFlow, React
+Areas of Interest: Open Source, AI
 
-Here are some ideas to get you started:
+🌟 Featured Projects
+Project Name: Pneumonia Identification from chest x-ray images
+Project Name: Movie Recommender System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Get in Touch
+📧 Email: mydocument783@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/za-heer-ali/
+📄 Check my resume: https://drive.google.com/file/d/1GvUMH5bAHnu4o5VFWP63d3wznJh3XcDO/view?usp=drive_link
+
+
+⭐️ If you like my work, consider starring my repos!Feel free to explore my projects and reach out for collaboration!
