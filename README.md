@@ -1,9 +1,9 @@
-Hi, I'm Zaheer Khan 👋
+# Hi, I'm Zaheer Khan 👋
 
 Welcome to my GitHub profile! I'm a Data Scientist passionate about Artificial Intelligence, Machine learning, Deep learning and NLP.
 
 
-🔧 Skills
+## 🔧 Skills
 
 Languages: Python, JavaScript
 
@@ -12,7 +12,7 @@ Frameworks/Tools: Scikit-learn, TensorFlow, React
 Areas of Interest: Open Source, AI
 
 
-🌟 Featured Projects
+## 🌟 Featured Projects
 
 Pneumonia Identification from chest x-ray images
 
